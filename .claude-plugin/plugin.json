@@ -1,0 +1,7 @@
+{
+  "name": "grand-slam-offer",
+  "description": "Guided Grand Slam Offer builder based on Alex Hormozi's $100M Offers: market, pricing, value equation, value stack, guarantee and naming",
+  "version": "1.0.0",
+  "author": { "name": "itsfromgaurav" },
+  "repository": "https://github.com/scalebep/Grand-Slam-Offer-Skill"
+}

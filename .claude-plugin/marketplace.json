@@ -1,0 +1,14 @@
+{
+  "name": "grandslamoffer",
+  "owner": { "name": "scalebep" },
+  "metadata": {
+    "description": "Grand Slam Offer skill for Claude Code, based on itsfromgaurav/grand-slam-offer-skill"
+  },
+  "plugins": [
+    {
+      "name": "grand-slam-offer",
+      "description": "Guided Grand Slam Offer builder based on Alex Hormozi's $100M Offers",
+      "source": "./"
+    }
+  ]
+}
